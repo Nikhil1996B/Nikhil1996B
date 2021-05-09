@@ -5,7 +5,7 @@
 - 📫 How to reach me 
    - e-mail: b.nikhil.nikhil@gmail.com
 
-<!---
+```
 I am an Software Engineer with experience in delivering proven results through development of robust, scalable application, within time and resource constraints.
 
 Key Competencies:
@@ -33,4 +33,4 @@ Key Achievements:
 
 
 Please contact me at EMAIL (b.nikhil.nikhil@gmail.com) to find out how I might contribute and add value to your next project.
---->
+```
