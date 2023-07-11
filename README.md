@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhil1996B
 - 👀 I’m interested in UI/Frontend development
 - 🌱 I’m currently learning Node JS, SQL, Nosql
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Freelance work
 - 📫 How to reach me 
    - e-mail: b.nikhil.nikhil@gmail.com
 
